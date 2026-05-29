@@ -1,1 +1,0 @@
-A CasaMOD extension that enables showing hidden dot files (.env, .gitignore, .ssh, etc.) in the CasaOS file manager with persistent toggle state.
